@@ -82,19 +82,19 @@ Softmax
 
 ### Plain-56 Accuracy
 
-![Plain-56 Accuracy](results/plain56/accuracy.png)
+![Plain-56 Accuracy](Resnet_reimplementation/results/plain56/accuracy.png)
 
 ### Plain-56 Loss
 
-![Plain-56 Loss](results/plain56/loss.png)
+![Plain-56 Loss](Resnet_reimplementation/results/plain56/loss.png)
 
 ### ResNet-56 Accuracy
 
-![ResNet-56 Accuracy](results/resnet56/accuracy.png)
+![ResNet-56 Accuracy](Resnet_reimplementation/results/resnet56/accuracy.png)
 
 ### ResNet-56 Loss
 
-![ResNet-56 Loss](results/resnet56/loss.png)
+![ResNet-56 Loss](Resnet_reimplementation/results/resnet56/loss.png)
 
 ---
 
