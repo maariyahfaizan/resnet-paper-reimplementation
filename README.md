@@ -80,6 +80,10 @@ Softmax
 
 ## Results
 
+### Note
+The titles of the **Plain-56** accuracy and loss figures are incorrectly labeled as **"ResNet-56"** due to a figure-generation naming oversight. Only the figure titles are affected; the plotted data correspond to the correct **Plain-56** training run.
+
+---
 ### Plain-56 Accuracy
 
 ![Plain-56 Accuracy](Resnet_reimplementation/results/plain56/accuracy.png)
@@ -106,12 +110,6 @@ Softmax
 | ResNet-56 | **6.97%** | **7.44%** |
 
 The reproduced results closely match those reported in the original paper, demonstrating that the implementation successfully reproduces the published architecture and training procedure.
-
----
-
-## Note
-
-The titles of the **Plain-56** accuracy and loss figures are incorrectly labeled as **"ResNet-56"** due to a figure-generation naming oversight. Only the figure titles are affected; the plotted data correspond to the correct **Plain-56** training run.
 
 ---
 
